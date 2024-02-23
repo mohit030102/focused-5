@@ -1,7 +1,7 @@
 /*
 * FILE : f5.cpp
 * PROJECT : SENG1000 - Focus Assignment #5
-* PROGRAMMER : Mohit Chodavdeeya
+* PROGRAMMER : Mohit Chodavdeeya  Student id : 8963902
 * FIRST VERSION : 2024-02-23
 * DESCRIPTION : Demonstrate a program that get integers from the user and determines the integer which has high value with array as parameters.
 */
