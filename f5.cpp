@@ -39,3 +39,16 @@ void modifyArrayValues(int total[], int numberOfElements)
     }
 }
 
+// Function for find maximum value in index
+int maxArrayValue(int total[], int numberOfElements)
+{
+    int hi = 0;
+    for (int x = 1; x < numberOfElements; x++)
+    {
+        if (total[x] > total[hi])
+        {
+            hi = x;
+        }
+    }
+    return hi;
+}
